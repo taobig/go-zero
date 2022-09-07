@@ -17,7 +17,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/jhump/protoreflect v1.12.0
 	github.com/justinas/alice v1.2.0
-	github.com/lib/pq v1.10.6
+	github.com/lib/pq v1.10.7
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pelletier/go-toml/v2 v2.0.5
 	github.com/prometheus/client_golang v1.13.0
